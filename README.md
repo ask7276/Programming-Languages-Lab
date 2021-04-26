@@ -20,4 +20,4 @@ Basic implementations in Prolog.
 
 ## Assignment 6
 
-Find the shortest path between source node and target node in a maze with faulty nodes. 
+Find the shortest path between source node and target node in a maze with faulty nodes in prolog. 
