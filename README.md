@@ -4,7 +4,7 @@
 
 ## Assignment 1
 
-This includes some basic implementations in Java using Multi-threading.
+This includes some basic implementations of Monte Caro Simulation, Composite Simson Rule and Maatrix Multiplication in Java using Multi-threading.
 
 ## Assignment 2
 
